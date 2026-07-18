@@ -134,3 +134,151 @@ class RahulKumar:
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌍 GeoVision AI
+
+Enterprise AI platform for Satellite Image Classification & Change Detection.
+
+### Tech
+
+- Next.js
+- FastAPI
+- PyTorch
+- SQLite
+
+</td>
+
+<td width="50%">
+
+## 🌱 Smart Agriculture AI
+
+AI Powered Agriculture Assistant
+
+### Tech
+
+- TensorFlow
+- Python
+- FastAPI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🤖 Celebal Technologies Internship
+
+Enterprise AI Platform
+
+### Tech
+
+- FastAPI
+- Next.js
+- TypeScript
+
+</td>
+
+<td>
+
+## 📄 RAG Document QA
+
+AI powered Document Intelligence
+
+### Tech
+
+- LangChain
+- ChromaDB
+- FastAPI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🌿 Plant Disease Detection
+
+Deep Learning based Plant Disease Detection
+
+### Tech
+
+- TensorFlow
+- CNN
+
+</td>
+
+<td>
+
+## 🌐 Portfolio Website
+
+Modern Developer Portfolio
+
+### Tech
+
+- HTML
+- CSS
+- JavaScript
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumarcse27&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarcse27&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rahulkumarcse27&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulkumarcse27&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarcse27&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rahulkumarcse27&style=for-the-badge&color=blue"/>
+
+</p>

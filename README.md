@@ -49,6 +49,16 @@ AI/ML Engineer | Data Scientist | Python Developer
 
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulkumarcse27&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,3 +98,11 @@ AI/ML Engineer | Data Scientist | Python Developer
 LinkedIn
 
 Email
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rahulkumarcse27&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>

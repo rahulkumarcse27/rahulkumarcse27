@@ -243,25 +243,34 @@ Modern Developer Portfolio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumarcse27&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarcse27&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumarcse27&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahulkumarcse27&theme=github-dark-blue"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumarcse27&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumarcse27&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumarcse27&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumarcse27&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulkumarcse27&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=rahulkumarcse27&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
@@ -270,7 +279,7 @@ Modern Developer Portfolio
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarcse27&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarcse27&theme=github-dark"/>
 
 </p>
 
@@ -278,6 +287,6 @@ Modern Developer Portfolio
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rahulkumarcse27&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=rahulkumarcse27&style=for-the-badge&color=0e75b6"/>
 
 </p>

@@ -243,10 +243,9 @@ Modern Developer Portfolio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumarcse27&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumarcse27&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarcse27&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarcse27&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
